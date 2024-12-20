@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence and Machine learning 
 - 🌱 I’m currently learning AI in ML (basics)
 - 💞️ I’m looking to collaborate on AI & Ml projects
-- 📫 How to reach me..Workshruti03@gmail.com
+- 📫 How to reach me workshruti03@gmail.com
 
 
 
