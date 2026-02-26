@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarsharaut11
 - 👀 I’m interested in Artificial intelligence and Machine learning 
-- 🌱 I’m currently learning AI in ML (basics) , python & c
+- 🌱 I’m currently learning AI in ML , python & c
 - 💞️ I’m looking to collaborate on AI & Ml projects
 - 📫 How to reach me workshruti03@gmail.com
 
